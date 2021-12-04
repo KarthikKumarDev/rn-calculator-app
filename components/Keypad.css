@@ -1,0 +1,27 @@
+.digit{
+    color: #FF0;
+    background-color: black;
+    padding: 20px;
+    margin-right: 2px;
+}
+
+.operator{
+    color: red;
+    background-color: whitesmoke;
+    padding: 20px;
+    margin-right: 2px;
+}
+
+.digits-section{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 200px;
+}
+
+.operators-section{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 250px;
+}

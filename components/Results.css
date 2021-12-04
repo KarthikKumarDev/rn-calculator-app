@@ -1,0 +1,12 @@
+.results-section{
+    height: 40px;
+    width: 250px;
+    background-color: darkgrey;
+    color: blue;
+    border: black;
+    border-radius: 10px;
+    border-style: inset;
+    font-size: 20px;
+    padding-left: 10px;
+    padding-top: 10px;
+}
